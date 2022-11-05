@@ -1,0 +1,16 @@
+.LessonPicker-Dropdowns{
+    display: flex;
+    flex-direction: row;
+    align-items: top;
+    justify-content: flex-start;
+    /* grid-template-columns: 400px auto; */
+    /* font-size: calc(10px + 2vmin); */
+  }
+
+.LessonPicker-Dropdown-Box{
+    margin: 10px 5px 5px 10px;
+  }
+
+.short.fq {
+    width: 12.25rem !important;
+}
